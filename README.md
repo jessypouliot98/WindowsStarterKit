@@ -1,0 +1,3 @@
+# WindowsStarterKit
+
+Setup windows fast
